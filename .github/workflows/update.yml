@@ -11,7 +11,8 @@ jobs:
       - name: Fetch the repository code
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.BOT_ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # token: ${{ secrets.BOT_ACCESS_TOKEN }}
       - name: Update schemes
         uses: tinted-theming/base16-builder-go@latest
       - name: Commit the changes, if any
