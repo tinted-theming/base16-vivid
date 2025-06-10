@@ -14,7 +14,7 @@ colors:
   cyan:   "8aabac"
   orange: "f0f0f0"
   white:  "cacaca"
-  base01: "4c4c4c"
+  base01: "393939"
 
 core:
   normal_text:
