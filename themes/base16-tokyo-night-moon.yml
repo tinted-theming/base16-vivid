@@ -8,13 +8,13 @@ colors:
   black:  "222436"
   red:    "ff757f"
   green:  "c3e88d"
-  yellow: "ffc777"
+  yellow: "ffdf77"
   blue:   "82aaff"
   purple: "fca7ea"
   cyan:   "86e1fc"
   orange: "c8d3f5"
-  white:  "3b4261"
-  base01: "636da6"
+  white:  "828bb8"
+  base01: "3b4261"
 
 core:
   normal_text:
