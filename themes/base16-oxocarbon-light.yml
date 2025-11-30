@@ -7,14 +7,14 @@ colors:
 
   black:  "f2f4f8"
   red:    "ff7eb6"
-  green:  "0f62fe"
+  green:  "42be65"
   yellow: "ff6f00"
-  blue:   "42be65"
+  blue:   "0f62fe"
   purple: "be95ff"
   cyan:   "673ab7"
-  orange: "08bdba"
-  white:  "393939"
-  base01: "161616"
+  orange: "272d35"
+  white:  "525f70"
+  base01: "a1acba"
 
 core:
   normal_text:

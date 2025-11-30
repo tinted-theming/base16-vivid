@@ -12,9 +12,9 @@ colors:
   blue:   "73b3e7"
   purple: "d390e7"
   cyan:   "5ebaa5"
-  orange: "3e4249"
-  white:  "b7bec9"
-  base01: "3e4249"
+  orange: "e4e5e6"
+  white:  "afb2b5"
+  base01: "4a4c4f"
 
 core:
   normal_text:
