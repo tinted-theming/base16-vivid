@@ -5,13 +5,13 @@ colors:
   #
   # The assignment of colors to file types roughly follows `dircolors`
 
-  black:  "eaeef2"
-  red:    "fa4549"
-  green:  "2da44e"
+  black:  "ffffff"
+  red:    "953800"
+  green:  "0a3069"
   yellow: "bf8700"
-  blue:   "218bff"
-  purple: "a475f9"
-  cyan:   "339d9b"
+  blue:   "8250df"
+  purple: "cf222e"
+  cyan:   "116329"
   orange: "1f2328"
   white:  "424a53"
   base01: "8c959f"
