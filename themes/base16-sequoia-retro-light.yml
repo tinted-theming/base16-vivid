@@ -5,16 +5,16 @@ colors:
   #
   # The assignment of colors to file types roughly follows `dircolors`
 
-  black:  "0d1117"
-  red:    "ff7b72"
-  green:  "3fb950"
-  yellow: "d29922"
-  blue:   "58a6ff"
-  purple: "be8fff"
-  cyan:   "39c5cf"
-  orange: "ffffff"
-  white:  "d1d7e0"
-  base01: "656c76"
+  black:  "edeef2"
+  red:    "5f7982"
+  green:  "4a704e"
+  yellow: "bf5238"
+  blue:   "456a82"
+  purple: "bf5238"
+  cyan:   "8a6539"
+  orange: "0f1014"
+  white:  "282930"
+  base01: "565760"
 
 core:
   normal_text:
